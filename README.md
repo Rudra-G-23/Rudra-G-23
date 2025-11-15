@@ -7,7 +7,25 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
-#### Tools 
+---
+
+### **Why I Chose Data**
+
+* I am a **self-taught Data Science learner**, building everything from scratch through curiosity and consistency.
+* Working with **data excites me** — every dataset feels like a puzzle waiting to be solved.
+* I enjoy **numbers, logic, and uncovering hidden patterns** inside data.
+* Turning **big, messy data into clean, meaningful information** gives me genuine satisfaction.
+* I love spending my time exploring **datasets, analytics, visualization, and machine learning**.
+* Data allows me to **make decisions based on facts, not assumptions** — and that motivates me.
+* The field is always growing, and I enjoy **learning new tools, techniques, and challenges** every day.
+* I believe data has the power to **create impact**, and I want to be part of that transformation.
+
+
+If you feel I can improve or collaborate on something, feel free to reach out on **[LinkedIn](https://www.linkedin.com/in/rudra-prasad-bhuyan-44a388235/)**.
+
+---
+
+### Tools 
 
 <br clear="both">
 

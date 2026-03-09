@@ -98,6 +98,8 @@ If you feel I can improve or collaborate on something, feel free to reach out on
   - A small, fast CLI tool to display styled file/folder trees with rich options, colors, icons, and metadata.
 - https://github.com/Rudra-G-23/Find-My-Joint
   - A utility to find potential join keys (matching columns) across multiple pandas DataFrames.
+
+<!--
 ### GitHub Stats 
 
 <div align="center">
@@ -129,4 +131,4 @@ If you feel I can improve or collaborate on something, feel free to reach out on
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Connect%20with%20Data%20...&fontSize=15&fontColor=5e17eb&fontAlign=50&fontAlignY=30&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5e17eb"  />
 </div>
 
-###
+-->

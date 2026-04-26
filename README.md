@@ -1,3 +1,20 @@
+### 🙏 Hello / ନମସ୍କାର
+
+I am Rudra Prasad Bhuyan from Odisha. 
+
+Aspiring **Data Scientist** with hands-on experience in data analysis, machine learning, and end-to-end project execution.
+
+Connect with me, let's build  https://rudra-g-23.github.io/
+
+### Python Packages
+
+| Name | Repo | About |
+| ----- | ------ | ----- |
+| show-file-tree | https://github.com/Rudra-G-23/show-file-tree | A small, fast CLI tool to display styled file/folder trees with rich options, colours, icons, and metadata. |
+| find-my-joint | https://github.com/Rudra-G-23/Find-My-Joint | A utility to find potential join keys (matching columns) across multiple pandas DataFrames. |
+
+<!--
+
 <h1 align="center"> Hey, Data Points <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="50"/> </h1>
 
 <p align="center">
@@ -93,18 +110,20 @@ If you feel I can improve or collaborate on something, feel free to reach out on
   </a>
 </div>
 
-### Our Python Package
-- https://github.com/Rudra-G-23/show-file-tree
-  - A small, fast CLI tool to display styled file/folder trees with rich options, colors, icons, and metadata.
-- https://github.com/Rudra-G-23/Find-My-Joint
-  - A utility to find potential join keys (matching columns) across multiple pandas DataFrames.
-
-<!--
 ### GitHub Stats 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Rudra-G-23&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Rudra-G-23&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-G-23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra-G-23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Connect%20with%20Data%20...&fontSize=15&fontColor=5e17eb&fontAlign=50&fontAlignY=30&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5e17eb"  />
 </div>
 
 ### Contributions
@@ -117,18 +136,5 @@ If you feel I can improve or collaborate on something, feel free to reach out on
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rudra-G-23/Rudra-G-23/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rudra-G-23/Rudra-G-23/output/pacman-contribution-graph.svg">
 </picture>
-
-### 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rudra-G-23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rudra-G-23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&text=Connect%20with%20Data%20...&fontSize=15&fontColor=5e17eb&fontAlign=50&fontAlignY=30&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=5e17eb"  />
-</div>
 
 -->

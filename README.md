@@ -2,7 +2,7 @@
 
 I am Rudra Prasad Bhuyan from Odisha. 
 
-Aspiring **Data Scientist** with hands-on experience in data analysis, machine learning, and end-to-end project execution.
+Aspiring **Data Scientist** who loves Finance & Business.
 
 Connect with me, let's build  https://rudra-g-23.github.io/
 

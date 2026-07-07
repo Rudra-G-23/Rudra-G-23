@@ -2,16 +2,14 @@
 
 I am Rudra Prasad Bhuyan from Odisha. 
 
-Aspiring **Data Scientist** who loves Finance & Business.
+I am a Data Scientist and love Finance & Business.
 
-Connect with me, let's build  https://rudra-g-23.github.io/
+My [Open Source Contributions](https://github.com/Rudra-G-23/open-source-contributions/)
 
 ### Python Packages
 
-| Name | Repo | About |
-| ----- | ------ | ----- |
-| show-file-tree | https://github.com/Rudra-G-23/show-file-tree | A small, fast CLI tool to display styled file/folder trees with rich options, colours, icons, and metadata. |
-| find-my-joint | https://github.com/Rudra-G-23/Find-My-Joint | A utility to find potential join keys (matching columns) across multiple pandas DataFrames. |
+- [show-file-tree](https://github.com/Rudra-G-23/show-file-tree) - A small, fast CLI tool to display styled file/folder trees with rich options, colours, icons, and metadata.
+- [find-my-joint](https://github.com/Rudra-G-23/Find-My-Joint) - A utility to find potential join keys (matching columns) across multiple pandas DataFrames.
 
 <!--
 

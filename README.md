@@ -2,7 +2,7 @@
 
 I am Rudra Prasad Bhuyan from Odisha. 
 
-I am a Data Scientist and love Finance & Business.
+I'm an ML Engineer who loves business & finance.
 
 My [Open Source Contributions](https://github.com/Rudra-G-23/open-source-contributions/)
 
@@ -10,6 +10,8 @@ My [Open Source Contributions](https://github.com/Rudra-G-23/open-source-contrib
 
 - [show-file-tree](https://github.com/Rudra-G-23/show-file-tree) - A small, fast CLI tool to display styled file/folder trees with rich options, colours, icons, and metadata.
 - [find-my-joint](https://github.com/Rudra-G-23/Find-My-Joint) - A utility to find potential join keys (matching columns) across multiple pandas DataFrames.
+- [TrajWeave](https://github.com/Rudra-G-23/TrajWeave) - TrajWeave is a local-first learning loop for coding-agent work. It imports Codex and Claude Code sessions, turns them into normalized trajectories, extracts evidence-backed experiences, proposes where they belong, and keeps a human in control of review, evaluation, and policy changes.
+
 
 <!--
 
